@@ -23,6 +23,8 @@ File_Structure (this project uses D:/)
 │   ├── Metadata/   
 │   ├── Stages/
 
+Contributions and suggestions are welcome!
+
 License
 This project is licensed under the MIT License.
 Contact ankur3103verma@gmail.com
