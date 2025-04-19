@@ -18,7 +18,7 @@ File_Structure (this project uses D:/)
 ├── flight_data_sample.json        # Synthetic dataset (1000 records)
 ├── flight_db/
 │   ├── flight_predictions.db      # SQLite database for predictions
-│   ├── flight.sqbpro
+│   ├── flight.sqbpro              #db file
 ├── flight_delay_model/
 │   ├── Metadata/   
 │   ├── Stages/
